@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usage on Azure ARC Project</title>
+    <link>https://sjsj1997.github.io/oerview/</link>
+    <description>Recent content in Usage on Azure ARC Project</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://sjsj1997.github.io/oerview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Arc overview</title>
+      <link>https://sjsj1997.github.io/oerview/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjsj1997.github.io/oerview/getting-started/</guid>
+      <description>Today, companies are struggling to control and govern an environment that becomes more and more complex. These environments extend across data centers, multiple clouds, and edge. Each environment and cloud have its own set of disjointed management tools that you need to learn and operate.
+In parallel, new DevOps and ITOps operational models are hard to implement, as existing tools fail to provide support for new cloud native patterns.
+Azure Arc simplifies governance and management by delivering a consistent multi-cloud and on-premises management platform.</description>
+    </item>
+    
+    <item>
+      <title>Azure ARC Quick Start</title>
+      <link>https://sjsj1997.github.io/oerview/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjsj1997.github.io/oerview/configuration/</guid>
+      <description>Azure Arc enabled servers enables you to manage and govern your Windows and Linux machines hosted across on-premises, edge, and multicloud environments. In this quickstart, you&amp;rsquo;ll deploy and configure the Connected Machine agent on your Windows or Linux machine hosted outside of Azure for management by Arc enabled servers.
+Prerequisites   If you don&amp;rsquo;t have an Azure subscription, create a free account before you begin.
+  Deploying the Arc enabled servers Hybrid Connected Machine agent requires that you have administrator permissions on the machine to install and configure the agent.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sjsj1997.github.io/oerview/code-blocks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjsj1997.github.io/oerview/code-blocks/</guid>
+      <description>There are multiple ways to add code blocks. Most of them works out of the box only the Hugo shortcode &amp;lt;highlight&amp;gt; need some configuration to work properly.
+   Inline code Code blocks Highlight shortcode     Inline code To display an inline shortcode use single quotes:
+`some code` Example: some code
+Code blocks Code blocks can be uses without language specification:
+``` some code ``` Example:</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sjsj1997.github.io/oerview/color-schemes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjsj1997.github.io/oerview/color-schemes/</guid>
+      <description>If you want to customize the color scheme of the theme to give it your individual touch you are just a few lines CSS away. In general, you have to override the defaults, the easiest way to do so is to create a static/custom.css file right in your site root.
+All necessary class names are listed below. If you miss some classes required for a color scheme you are very welcome to create an Issue or Pull Request.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sjsj1997.github.io/oerview/menus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://sjsj1997.github.io/oerview/menus/</guid>
+      <description>The theme supports two different kinds of menus. File-tree menu is the default one and does not require further configuration to work. If you want full control about your menu the bundle menu is a powerful option to accomplish it.
+   File-tree menu Bundle menu  More menu       File-tree menu As the name already suggests, the file tree menu builds a menu from the file system structure of the content folder.</description>
+    </item>
+    
+  </channel>
+</rss>
